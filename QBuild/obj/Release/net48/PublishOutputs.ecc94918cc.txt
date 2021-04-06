@@ -1,0 +1,4 @@
+C:\Users\bhoji\Prod\QBuild\QBuild.exe
+C:\Users\bhoji\Prod\QBuild\QBuild.exe.config
+C:\Users\bhoji\Prod\QBuild\QBuild.pdb
+C:\Users\bhoji\Prod\QBuild\System.Data.SqlClient.dll

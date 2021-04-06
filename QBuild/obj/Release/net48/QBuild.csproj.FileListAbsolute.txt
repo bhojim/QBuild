@@ -1,0 +1,14 @@
+C:\Users\bhoji\source\repos\WinForms\QBuild\QBuild\bin\Release\net48\QBuild.exe.config
+C:\Users\bhoji\source\repos\WinForms\QBuild\QBuild\bin\Release\net48\QBuild.exe
+C:\Users\bhoji\source\repos\WinForms\QBuild\QBuild\bin\Release\net48\QBuild.pdb
+C:\Users\bhoji\source\repos\WinForms\QBuild\QBuild\bin\Release\net48\System.Data.SqlClient.dll
+C:\Users\bhoji\source\repos\WinForms\QBuild\QBuild\obj\Release\net48\QBuild.csprojAssemblyReference.cache
+C:\Users\bhoji\source\repos\WinForms\QBuild\QBuild\obj\Release\net48\QBuild.csproj.GenerateResource.cache
+C:\Users\bhoji\source\repos\WinForms\QBuild\QBuild\obj\Release\net48\QBuild.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhoji\source\repos\WinForms\QBuild\QBuild\obj\Release\net48\QBuild.AssemblyInfoInputs.cache
+C:\Users\bhoji\source\repos\WinForms\QBuild\QBuild\obj\Release\net48\QBuild.AssemblyInfo.cs
+C:\Users\bhoji\source\repos\WinForms\QBuild\QBuild\obj\Release\net48\QBuild.csproj.CoreCompileInputs.cache
+C:\Users\bhoji\source\repos\WinForms\QBuild\QBuild\obj\Release\net48\QBuild.csproj.CopyComplete
+C:\Users\bhoji\source\repos\WinForms\QBuild\QBuild\obj\Release\net48\QBuild.exe
+C:\Users\bhoji\source\repos\WinForms\QBuild\QBuild\obj\Release\net48\QBuild.pdb
+C:\Users\bhoji\source\repos\WinForms\QBuild\QBuild\obj\Release\net48\QBuild.FrmMain.resources

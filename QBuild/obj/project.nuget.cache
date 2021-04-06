@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i2QEsJndgP3aDbSRQIaTsGYcoEgGsTvt0Zp0NJTkrdOKzURGcCsZmrlhZe4K2JG8/reFqxgKECjQDMy/oUSGcQ==",
+  "success": true,
+  "projectFilePath": "C:\\temp\\QBuild\\QBuild\\QBuild.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bhoji\\.nuget\\packages\\system.data.sqlclient\\4.8.2\\system.data.sqlclient.4.8.2.nupkg.sha512"
+  ],
+  "logs": []
+}
